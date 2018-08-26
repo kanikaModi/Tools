@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeldingTool", "Assembly-CSharp.csproj", "{2AEFD3CF-BA57-8DAD-BF6B-132752CDF706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeldingTool", "Assembly-CSharp-Editor.csproj", "{051D77CA-8C23-A4D5-E91A-156022EC954E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEFD3CF-BA57-8DAD-BF6B-132752CDF706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEFD3CF-BA57-8DAD-BF6B-132752CDF706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEFD3CF-BA57-8DAD-BF6B-132752CDF706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEFD3CF-BA57-8DAD-BF6B-132752CDF706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051D77CA-8C23-A4D5-E91A-156022EC954E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051D77CA-8C23-A4D5-E91A-156022EC954E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051D77CA-8C23-A4D5-E91A-156022EC954E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051D77CA-8C23-A4D5-E91A-156022EC954E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -51,5 +51,8 @@ EditorBuildSettings:
     path: Assets/scene/oven_1.unity
     guid: bfbd94d32f277474b9a5817c6891e976
   - enabled: 1
+    path: Assets/scene/showcase_2D.unity
+    guid: 3963fd396f81abd429c314bbae8de58e
+  - enabled: 1
     path: Assets/scene/socket_1.unity
     guid: 9258db4e6f1ee964c9e9ff06b6aaf312
