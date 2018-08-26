@@ -11,27 +11,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scene/cableconnector_1.unity
     guid: 81660eedca65c9e4a8abb12bf4e7fcf2
-  - enabled: 1
+  - enabled: 0
     path: Assets/scene/cableconnector_2.unity
     guid: 8a07a07b0ac042f429b3cc4fa67b2f99
   - enabled: 1
     path: Assets/scene/earthclamp1_1.unity
     guid: cfbeaaf7f9213544592cb48f4ede622b
-  - enabled: 1
-    path: Assets/scene/earthclamp1_2.unity
-    guid: 90521ccf4328f464f9cf94c71fcc2dfe
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/scene/earthclamp2_1.unity
     guid: 84d47bc8c4db2004b842ea88149b7683
-  - enabled: 1
-    path: Assets/scene/earthclamp2_2.unity
-    guid: 8e4876e0d60669645890c4c50b7ebe9d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/scene/electrodeholder_1.unity
     guid: 86fdc2e789cfb4947bbf5c216dbf720b
-  - enabled: 1
-    path: Assets/scene/electrodeholder_2.unity
-    guid: 2a507c73161cc8d4580d95d2f9e6bd8f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/scene/invertor_1.unity
     guid: 8422964e338e433408f2d0ad5c39903a

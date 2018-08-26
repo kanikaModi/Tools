@@ -1407,7 +1407,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim_info: {fileID: 300660272}
-  tool_image: {fileID: 21300000, guid: 144b1c1d000515f4e9bf5e0690b7f354, type: 3}
   fixedImageHeight: 525
   showcase_tool: {fileID: 1096109197}
   product: {fileID: 902783645}
@@ -1479,7 +1478,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: INFO
+  m_Text: 'Technical
+
+    Data'
 --- !u!222 &1584301349
 CanvasRenderer:
   m_ObjectHideFlags: 0

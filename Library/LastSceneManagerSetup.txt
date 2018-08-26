@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene/menu_electrodeholder.unity
+- path: Assets/scene/showcase_2D.unity
   isLoaded: 1
   isActive: 1
